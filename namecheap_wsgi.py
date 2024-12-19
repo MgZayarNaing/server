@@ -1,5 +1,8 @@
-
 """
+video link
+https://youtu.be/kZQkLZnJA6I
+
+
 WSGI config for myProject project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
